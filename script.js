@@ -1,7 +1,7 @@
 /*
 Snow Effect source: https://codepen.io/longzero/pen/Kwdbyj
 */
-
+/* khong co gi */
 window.onload = function () {
   //canvas init
   var canvas = document.getElementById("canvas");
